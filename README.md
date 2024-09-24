@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/s0y3lsa/s0y3lsa/blob/a23e6496d8288f5557c210fd1ef0237b391412f4/img/banner.png" alt="banner.png">
 
-
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
 <!--
 **s0y3lsa/s0y3lsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
