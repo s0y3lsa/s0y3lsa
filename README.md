@@ -1,7 +1,6 @@
 <div aling="center">
-<h1 aling="center">𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 </h1>
-<img src=" " alt=" .png">
-  
+  <h1 aling="center">𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 </h1>
+  <img src="https://github.com/s0y3lsa/s0y3lsa/blob/a23e6496d8288f5557c210fd1ef0237b391412f4/img/banner.png" alt="banner.png">
 </div>
 
 <!--
